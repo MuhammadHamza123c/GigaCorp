@@ -1,4 +1,4 @@
-# GigaCorp RAG Agent — Customer Support Chatbot with Conversational Memory
+# GigaCorp RAG Agent — Customer Support Chatbot with Conversational Memory.
 
 A production-grade, enterprise-ready conversational RAG (Retrieval-Augmented Generation) agent built for GigaCorp customer support. Uses LangChain orchestration with Groq Cloud LLMs and a local FAISS vector store.
 
