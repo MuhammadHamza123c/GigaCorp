@@ -6,7 +6,7 @@ A production-grade, enterprise-ready conversational RAG (Retrieval-Augmented Gen
 
 ```
 gigacorp-rag-agent/
-├── data/                   # Raw FAQ knowledge base
+├── data/                   # Raw FAQs knowledge base
 ├── src/
 │   ├── config.py           # Environment & settings management
 │   ├── agent/
